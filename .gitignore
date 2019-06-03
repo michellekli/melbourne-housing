@@ -2,3 +2,4 @@
 *.pickle
 viz-nb/
 *.docx
+.ipynb_checkpoints/
