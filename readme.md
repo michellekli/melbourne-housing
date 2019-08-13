@@ -1,3 +1,5 @@
+# Slide Deck Presentation
+[![Slide deck presentation.](https://github.com/michellekli/melbourne-housing/blob/master/presentation-preview.jpg)](https://github.com/michellekli/melbourne-housing/blob/master/melbourne-housing-presentation.pdf)
 
 # Introduction
 This repo houses a three-notebook project on the [Melbourne Housing Market](https://www.kaggle.com/anthonypino/melbourne-housing-market) dataset created by Tony Pino. In this project, I create a ridge regression model to predict house values and gain insight into the effect of each feature. [Part 1](https://github.com/michellekli/melbourne-housing/blob/master/melbourne-housing-part1.ipynb) covers the initial exploratory data analysis. [Part 2](https://github.com/michellekli/melbourne-housing/blob/master/melbourne-housing-part2.ipynb) covers more in-depth exploratory data analysis and data cleaning. [Part 3](https://github.com/michellekli/melbourne-housing/blob/master/melbourne-housing-part3.ipynb) covers feature selection, model evaluation, and finally model interpretation.
